@@ -1,5 +1,4 @@
 
-
 ## 🧠 Palindromic Pyramid Matcher (C++)
 
 This C++ program generates a **palindromic pyramid pattern** of numbers or letters based on user input and checks if the pyramid is **perfectly symmetric** when reversed.
