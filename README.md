@@ -1,6 +1,4 @@
-Here’s a **short and clear `README.md` file** description for your C++ project:
 
----
 
 ## 🧠 Palindromic Pyramid Matcher (C++)
 
@@ -44,6 +42,4 @@ Symmetric? ✅ YES
 ### 🎯 Objective
 Practice logical thinking in C++ using palindromes, loops, conditionals, and structured programming.
 
----
 
-Let me know if you’d like a `main.cpp` file or want this formatted for GitHub!
